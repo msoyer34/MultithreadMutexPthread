@@ -1,0 +1,20 @@
+Customer2,231,Bob
+Customer1,300,Kevin
+Customer3,50,Stuart
+Customer10,50,Stuart
+Customer8,300,Kevin
+Customer14,40,Dave
+Customer7,40,Dave
+Customer12,65,Stuart
+Customer5,65,Stuart
+Customer4,30,Otto
+Customer11,30,Otto
+Customer13,100,Bob
+Customer9,231,Bob
+Customer6,100,Bob
+All payments completed.
+Kevin:600
+Bob:662
+Stuart:230
+Otto:60
+Dave:80
